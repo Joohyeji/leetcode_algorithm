@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0792-binary-search) |
 ## Tree
