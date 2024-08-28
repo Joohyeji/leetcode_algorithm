@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0057-insert-interval) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0141-linked-list-cycle) |
 ## Interactive
 |  |
