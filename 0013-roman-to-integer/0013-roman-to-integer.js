@@ -11,7 +11,6 @@
     'D': 500,
     'M': 1000
 };
-
 function romanToInt(s) {
     let total = 0;
 
