@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0070-climbing-stairs) |
 | [2383-add-two-integers](https://github.com/Joohyeji/leetcode_algorithm/tree/master/2383-add-two-integers) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0542-01-matrix) |
 ## Sorting
@@ -127,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
