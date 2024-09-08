@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0383-ransom-note) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0036-valid-sudoku) |
 | [0542-01-matrix](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0733-flood-fill) |
 ## Binary Search Tree
