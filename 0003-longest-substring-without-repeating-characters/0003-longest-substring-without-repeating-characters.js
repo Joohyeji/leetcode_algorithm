@@ -11,6 +11,7 @@ var lengthOfLongestSubstring = function(s) {
         if(usedChars.has(s[i])){
             start = Math.max(usedChars.get(s[i]) + 1, start)
         }
+        
         maxLen = Math.max(maxLen, i - start + 1)
         usedChars.set(s[i], i)
     }
