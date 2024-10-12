@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0169-majority-element) |
 | [0322-coin-change](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0733-flood-fill) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0409-longest-palindrome) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
@@ -130,9 +133,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Joohyeji/leetcode_algorithm/tree/master/0383-ransom-note) |
 ## Two Pointers
 |  |
